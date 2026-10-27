@@ -1,0 +1,8 @@
+# 忽略编译产物和本地配置
+*.exe
+reader_config.txt
+*.user
+*.suo
+bin/
+obj/
+.vs/
